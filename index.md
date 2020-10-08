@@ -1,4 +1,4 @@
-##                      Grupo 21
+<p align="center">## Grupo 21</P>
 
 ## Welcome to GitHub Pages
 
