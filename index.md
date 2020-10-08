@@ -33,6 +33,8 @@ Syntax highlighted code block
 [Link](https://p2.trrsf.com/image/fget/cf/600/400/images.terra.com/2020/08/14/o-gatinho-de-cada-signo-15721.jpeg) [Image](src)
 ```
 
+[Image](https://p2.trrsf.com/image/fget/cf/600/400/images.terra.com/2020/08/14/o-gatinho-de-cada-signo-15721.jpeg)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
