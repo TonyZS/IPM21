@@ -15,6 +15,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+<img src="logoNTAFinal.png" alt="hi" class="inline"/>
+
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -27,7 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url)https://p2.trrsf.com/image/fget/cf/600/400/images.terra.com/2020/08/14/o-gatinho-de-cada-signo-15721.jpeg[Image](src)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
