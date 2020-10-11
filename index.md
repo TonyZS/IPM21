@@ -35,3 +35,7 @@ MIEI
 ### Fase 2
 
 <img src="gameWrapPrototipo.png" alt="hi" class="inline"/>
+
+## Relatórios
+
+<a href="IPM_stage_1_51879_52794_53349_53675.pdf">Relatório Fase 1</a>
