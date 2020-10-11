@@ -1,14 +1,10 @@
-## Grupo 21
+## IPM - Grupo 21
 
-## Welcome to GitHub Pages
+## GameWrap: Wrap Together
 
-You can use the [editor on GitHub](https://github.com/TonyZS/IPM21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+No contexto da cadeira de Interação Pessoa-Máquina, desenvolvemos a aplicação GameWrap, uma plataforma para artistas e game developers para partilharem os seus projetos e encontrarem pessoas na sua área de trabalho.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Boas pessoal daqui fala o exaltado
-
-### Markdown
+## Elementos
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
