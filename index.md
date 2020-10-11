@@ -1,6 +1,6 @@
-## IPM - Grupo 21
+# IPM - Grupo 21
 
-## GameWrap: Wrap Together
+# GameWrap: Wrap Together
 
 No contexto da cadeira de Interação Pessoa-Máquina, desenvolvemos a aplicação GameWrap, uma plataforma para artistas e game developers para partilharem os seus projetos e encontrarem pessoas na sua área de trabalho.
 
