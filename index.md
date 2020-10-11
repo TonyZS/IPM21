@@ -26,8 +26,10 @@ MIEI
 
 Protótipo
 <img src="Fase1.PNG" alt="hi" class="inline"/>
+###
 Fase 1
 <img src="Fase2.PNG" alt="hi" class="inline"/>
+###
 Fase 2
 <img src="gameWrapPrototipo.png" alt="hi" class="inline"/>
 
