@@ -6,12 +6,31 @@ No contexto da cadeira de Interação Pessoa-Máquina, desenvolvemos a aplicaç�
 
 ## Elementos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+António Santos
+nº 51879
+MIEI
 
+Fredrico Pinheiro
+nº 52794
+MIEI
+
+João Rodrigues
+nº 53349
+MIEI
+
+Pedro Bailão
+nº 53675
+MIEI
+
+## Evolução do Logótipo
+
+Protótipo
+<img src="logoNTAFinal.png" alt="hi" class="inline"/>
+Fase 1
+<img src="logoNTAFinal.png" alt="hi" class="inline"/>
+Fase 2
 <img src="logoNTAFinal.png" alt="hi" class="inline"/>
 
-```markdown
-Syntax highlighted code block
 
 
 
@@ -20,8 +39,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+```markdown
+Syntax highlighted code block
 - Bulleted
 - List
+
 
 1. Numbered
 2. List
