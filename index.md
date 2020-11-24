@@ -42,3 +42,12 @@ MIEI
 <a href="IPM_stage2_21_51879_52794_53349_53675.pdf">Stage 2</a><br>
 <a href="G_21_stage3.pdf">Stage 3</a>
 
+## Assignment1
+
+### António Santos
+Bad Design:
+<img src="BadDesignAntónio.PNG" alt="hi" class="inline"/>
+-Playstation Store Search Bar
+
+Good Design:
+
