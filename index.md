@@ -46,7 +46,7 @@ MIEI
 
 ### António Santos
 Bad Design:
-<img src="BadDesignAntónio.PNG" alt="hi" class="inline"/>
+<img src="BadDesignAntonio.PNG" alt="hi" class="inline"/>
 -Playstation Store Search Bar
 
 Good Design:
