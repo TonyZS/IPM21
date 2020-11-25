@@ -50,6 +50,8 @@ Bad Design:
 -Playstation Store Search Bar
 
 Good Design:
+<img src="AntonioGoodDesign.png" alt="hi" class="inline"/>
+-Zoom Muted Notification
 
 ### João Rodrigues
 <a href="IPM Interfaces.pdf">Interfaces</a>
