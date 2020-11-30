@@ -22,6 +22,16 @@ Pedro Bailão
 nº 53675
 MIEI
 
+## Fase 1
+<a href="IPM_stage_1_51879_52794_53349_53675.pdf">Relatório</a><br>
+
+## Fase 2
+<a href="IPM_stage2_21_51879_52794_53349_53675.pdf">Relatório</a><br>
+
+## Fase 3 - Marvel
+<a href="G_21_stage3.pdf">Relatório</a>
+<a href="https://marvelapp.com/prototype/267g382g/screen/73968340">Link Marvel</a>
+
 ## Evolução do Logótipo
 
 ### Protótipo
