@@ -38,6 +38,15 @@ MIEI
 
 <a href="https://personal-eg5wulr8.outsystemscloud.com/GameWrap/EmDestaque?_ts=637423436191169044">Link Protótipo</a>
 
+## Fase 5 - Heuristica
+<a href="G_21_Stage5.pdf">Heuristica Grupo 22</a>
+
+<a href="G_24_Stage5.pdf">Heuristica Grupo 21</a>
+
+## Fase 6 - Avaliação de Resultados
+
+<a href="IPM_stage_6.pdf">Relatório</a>
+
 
 ## Evolução do Logótipo
 
